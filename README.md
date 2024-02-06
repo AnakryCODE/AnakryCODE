@@ -15,7 +15,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{anakrycode}/count.svg" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Victor-Souza-Tech}/count.svg" /></p>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=150c63&height=120&section=footer"/>
