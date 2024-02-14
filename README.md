@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Victor-Souza-Tech&show_icons=true&count_private=true&hide_border=true&title_color=3A399F&icon_color=3d007&text_color=3A399F&bg_color=0d1117" alt="AnakryCode github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anakrycode&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Souza-Tech&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Victor-Souza-Tech&bg_color=020c2c&color=6d2c68&line=3d007a&point=6e6868&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
