@@ -13,7 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/C-0D1117?logo=C%2B%2B&logoColor=blue&style=for-the-badge)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=green&style=for-the-badge)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-0D1117?logo=css3&logoColor=green&style=for-the-badge)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
