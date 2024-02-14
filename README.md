@@ -12,7 +12,7 @@
 ## Estudando no momento:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-C-555555?style=for-the-badge&logo=c&labelColor=555555)&nbsp;
+![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&labelColor=000000&logoColor=white)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
